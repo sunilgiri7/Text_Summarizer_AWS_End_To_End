@@ -49,7 +49,7 @@ open up you local host and port
 
 ```bash
 Author: Sunil Giri
-Data Science Enthuistic
+Data Science Enthusiastic
 Email: seungiri841@gmail.com
 
 ```
