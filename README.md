@@ -51,5 +51,4 @@ open up you local host and port
 Author: Sunil Giri
 Data Science Enthusiastic
 Email: seungiri841@gmail.com
-
 ```
